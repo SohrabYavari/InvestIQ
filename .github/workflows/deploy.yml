@@ -9,7 +9,6 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    environment: github-pages
 
     steps:
       # Checkout the repository
