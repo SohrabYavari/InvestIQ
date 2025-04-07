@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/InvestIQ/static/css/main.570fd53a.css",
+    "main.js": "/InvestIQ/static/js/main.8740bfa4.js",
+    "static/js/453.8ab44547.chunk.js": "/InvestIQ/static/js/453.8ab44547.chunk.js",
+    "static/media/brain.svg": "/InvestIQ/static/media/brain.fdd4b97963fc92455df1dab4fcc516c2.svg",
+    "index.html": "/InvestIQ/index.html",
+    "main.570fd53a.css.map": "/InvestIQ/static/css/main.570fd53a.css.map",
+    "main.8740bfa4.js.map": "/InvestIQ/static/js/main.8740bfa4.js.map",
+    "453.8ab44547.chunk.js.map": "/InvestIQ/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570fd53a.css",
+    "static/js/main.8740bfa4.js"
+  ]
+}
