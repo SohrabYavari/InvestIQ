@@ -34,10 +34,10 @@ const Footer = () => {
       </nav>
       <nav>
         <h6 className="footer-title">Company</h6>
-        <Link to='/' className="link link-hover" onClick={scrollToTop}>
+        <Link to='' className="link link-hover" onClick={scrollToTop}>
           About us
         </Link>
-        <Link to="/contact" className="link link-hover">
+        <Link to="/InvestIQ/contact" className="link link-hover">
           Contact
         </Link>
       </nav>
